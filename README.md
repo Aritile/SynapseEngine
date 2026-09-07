@@ -371,10 +371,14 @@ xmake
 
 SynapseEngine is dual-licensed:
 
-- GNU Affero General Public License v3.0 (AGPLv3) for open-source and non-commercial use
-- Commercial license available for proprietary/commercial usage
+- GNU Affero General Public License v3.0 (AGPLv3) for open-source and
+  other uses where the AGPLv3 terms are acceptable.
+- Commercial License for proprietary and closed-source products.
 
-If you want to use SynapseEngine in a closed-source product, commercial game, proprietary engine, or commercial environment without AGPL obligations, you must obtain a commercial license.
+The AGPLv3 license does not restrict commercial use. However, if you
+incorporate SynapseEngine into a proprietary or closed-source product
+and do not wish to comply with the AGPLv3 copyleft requirements, you
+must obtain a commercial license.
 
 For commercial licensing inquiries:
 
